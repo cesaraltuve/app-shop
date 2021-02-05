@@ -30,7 +30,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1 class="title">¡Carla y pedro!</h1>
+                <h1 class="title">Cesar Altuve...</h1>
                 <h4>Esta es una página de muestra donde pretendo diseñar mi primer sitio web.</h4>
                 <br />
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="btn btn-danger btn-raised btn-lg">
