@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="title">¿Quienes somos?</h2>
-                    <h5 class="description">Nuestra compañía se encarga de la rama de los servicios de manutencion y remodelación de interiores. Sea biembenido al lugar donde todos los deseos de una casa maravillosa se hará realidad.</h5>
+                    <h5 class="description">Nuestra compañía se encarga de la rama de los servicios de manutencion y remodelación de interiores. Sea bienvenido al lugar donde todos los deseos de una casa maravillosa se hará realidad.</h5>
                 </div>
             </div>
 
@@ -77,7 +77,7 @@
                                 <i class="material-icons">fingerprint</i>
                             </div>
                             <h4 class="info-title">Garantizamos privacidad</h4>
-                            <p>Puede dejar en nuestras manos la realización de la casa de sus fantacías, no le defraudaremos.</p>
+                            <p>Puede dejar en nuestras manos la realización de la casa de sus fantasías, no le defraudaremos.</p>
                         </div>
                     </div>
                 </div>
