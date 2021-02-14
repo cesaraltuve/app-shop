@@ -74,7 +74,7 @@
                 <h1 class="title">{{ config('app.name')}}... </h1>
                 <h4>Página de ensayo para una tienda en linea.</h4>
                 <br />
-                <a href="https://www.youtube.com/watch?v=4psL4KQYyPY&t=123s" class="btn btn-danger btn-raised btn-lg">
+                <a href="https://www.youtube.com/watch?v=O-tvtxoA21I" class="btn btn-danger btn-raised btn-lg">
                     <i class="fa fa-play"></i> Ver video
                 </a>
             </div>
