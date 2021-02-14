@@ -3,23 +3,15 @@
         <nav class="pull-left">
             <ul>
                 <li>
-                    <a href="http://www.creative-tim.com">
-                        Creative Tim
+                    <a class="bmd-btn-fab fa fa-facebook" width="24" href="https://www.facebook.com"> Facebook
                     </a>
                 </li>
                 <li>
-                    <a href="http://presentation.creative-tim.com">
-                       About Us
+                    <a class="bmd-btn-fab fa fa-twitter" width="24" href="https://www.twitter.com"> Twitter
                     </a>
                 </li>
                 <li>
-                    <a href="http://blog.creative-tim.com">
-                       Blog
-                    </a>
-                </li>
-                <li>
-                    <a href="http://www.creative-tim.com/license">
-                        Licenses
+                    <a class="bmd-btn-fab fa fa-instagram" width="24" href="https://www.instagram.com"> Instagram
                     </a>
                 </li>
             </ul>
