@@ -17,6 +17,9 @@ class UsersTableSeeder extends Seeder
 	    	'email' => 'cesar_altuve@hotmail.com',
 	        'password' => bcrypt('123123'),
             'admin' => true
+            'phone' => '04147330834',
+            'address' => 'los proceres',
+            'username' => 'cesaraltuve',
 
     	]);
 
