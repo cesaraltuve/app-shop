@@ -82,6 +82,6 @@ class RegisterController extends Controller
     {
         $name = $request->input('name');
         $email = $request->input('email');
-        return view('Auth.register')->with(compact('name', 'email'));
+        return view('auth.register')->with(compact('name', 'email'));
     }
 }
