@@ -3,7 +3,7 @@
         <nav class="pull-left">
             <ul>
                 <li>
-                    <a class="bmd-btn-fab fa fa-facebook" width="24" href="https://www.facebook.com"> Facebook
+                    <a class="bmd-btn-fab fa fa-facebook-square" width="24" href="https://www.facebook.com"> Facebook
                     </a>
                 </li>
                 <li>

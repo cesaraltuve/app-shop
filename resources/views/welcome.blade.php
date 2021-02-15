@@ -160,7 +160,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="text-center title">¿Aún no te has registrado?</h2>
                     <h4 class="text-center description">Registrate y empieza a utilizar el carrito de compras y disfruta de nuestros productos.</h4>
-                    <form class="contact-form">
+                    <form class="contact-form" method="get" action="{{ url('/register') }}">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group label-floating">
