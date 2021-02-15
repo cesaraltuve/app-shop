@@ -159,13 +159,13 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="text-center title">¿Aún no te has registrado?</h2>
-                    <h4 class="text-center description">Estamos dispuestos a aceptar sugerencias. Envíanos un correo o un mensaje y ayudenos a mejorar.</h4>
+                    <h4 class="text-center description">Registrate y empieza a utilizar el carrito de compras y disfruta de nuestros productos.</h4>
                     <form class="contact-form">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group label-floating">
                                     <label class="control-label">Tu nombre</label>
-                                    <input type="email" class="form-control">
+                                    <input type="text" class="form-control">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -175,12 +175,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <div class="form-group label-floating">
-                            <label class="control-label">Escribe tu mensaje</label>
-                            <textarea class="form-control" rows="4"></textarea>
-                        </div>
-
                         <div class="row">
                             <div class="col-md-4 col-md-offset-4 text-center">
                                 <button class="btn btn-primary btn-raised">
